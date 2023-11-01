@@ -1,1 +1,1 @@
-This is my template. does this stage the file? try the fetch option
+This is my template. does this stage the file? try the fetch option, adding another line to test the fetch feature. Not sure I understand it completely, just yet.
