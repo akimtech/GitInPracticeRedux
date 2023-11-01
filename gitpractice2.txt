@@ -1,2 +1,2 @@
 This is my second file. I will add this to another branch and merge later, I want to use another tool and download using gitKraken. 
-this is about to make hanges for the article. This  article page for a second push. 
+this is about to make some changes for the article. This is another  push. 
