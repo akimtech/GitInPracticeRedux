@@ -1,0 +1,1 @@
+This file will be used to test the rename command. I don't want to move any files.
